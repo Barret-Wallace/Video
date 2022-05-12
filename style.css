@@ -1,0 +1,17 @@
+body{
+    background-image: url("tvback.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.intro{
+    color: white;
+    background-color: orange;
+    margin-top: -1px;
+}
+canvas{
+    border: black, 2px, dashed;
+    box-shadow: 2px 1px 39px black;
+    margin-top: 100px;
+}
